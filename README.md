@@ -33,7 +33,7 @@ The goal is to extract insights related to content types, genres, release trends
 <img src='Pics/2.jpg' width="700">
 <br><br>![2](https://github.com/user-attachments/assets/c4c94ffb-053a-45b5-a7c3-1c2afd9cb41e)
 
-<img src='Pics/3.jpg' width="500">![3](https://github.com/user-attachments/assets/29501e50-977a-449b-8718-d61675b165bd)
+<img src='Pics/3.jpg' width="200">![3](https://github.com/user-attachments/assets/29501e50-977a-449b-8718-d61675b165bd)
 
 
 ---
