@@ -3,7 +3,8 @@
 ![Profile Visitors](https://gpvc.arturio.dev/undiscovered-genius)  
 [![Repository Visitors](https://visitor-badge.glitch.me/badge?page_id=undiscovered-genius.undiscovered-genius/Netflix-Prime-Hotstar-Dashboard-Power-BI)](https://github.com/undiscovered-genius/Netflix-Prime-Hotstar-Dashboard-Power-BI)
 
----
+---![film1](https://github.com/user-attachments/assets/da3a2978-5749-4560-bc54-45b11d996600)
+
 
 ##  Project Overview
 
