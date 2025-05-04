@@ -7,12 +7,6 @@ The goal is to extract insights related to content types, genres, release trends
 
 ---
 
-## 📥 Download the Dashboard
-
-▶️ **[Download Dashboard (.pbix)](link-to-your-file)**
-
----
-
 
 ## 🎯 Key Objectives
 
