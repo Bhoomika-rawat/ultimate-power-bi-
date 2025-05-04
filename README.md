@@ -29,7 +29,7 @@ The goal is to extract insights related to content types, genres, release trends
 
 ### 📌 Netflix Dashboard
 
-<img src="https://user-images.githubusercontent.com/<your-link-1>.jpg" width="800">
+
 ![1](https://github.com/user-attachments/assets/7cdc01dd-0a29-4003-b181-b8b389543988)
 
 ---
