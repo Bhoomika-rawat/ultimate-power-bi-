@@ -29,24 +29,19 @@ The goal is to extract insights related to content types, genres, release trends
 
 ### 📌 Netflix Dashboard
 
-
 ![1](https://github.com/user-attachments/assets/7cdc01dd-0a29-4003-b181-b8b389543988)
 
 ---
 
 ### 📌 Amazon Prime Dashboard
 
-<img src="https://user-images.githubusercontent.com/<your-link-2>.jpg" width="800">
 ![2](https://github.com/user-attachments/assets/850b676b-285b-464e-b6c0-7303733982f4)
 
 ---
 
 ### 📌 Hotstar Dashboard
 
-<img src="https://user-images.githubusercontent.com/<your-link-3>.jpg" width="800">
 ![3](https://github.com/user-attachments/assets/6f031c4e-de82-48a2-a948-9eb172885d74)
-
-
 
 ---
 
